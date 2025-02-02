@@ -1,33 +1,33 @@
 # Bsp30-Import
- 
-
+    
+   
 Import Half-life Bsp into Unity3d
-
+   
 Unity 6 25f1
-
+    
 
 What works
 
-Textures are loaded from WAD or BSP
-PVS works
-Lightmaps are Fixed, unityHalf-life were very buggy.
-
-
+Textures are loaded from WAD or BSP  
+PVS works   
+Lightmaps are Fixed, unityHalf-life were very buggy.    
+    
+   
 No entites are rendered, only the world faces
-
-
-
-
-
+   
+   
+   
+  
+   
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
-
+   
 However, some code in this project is based on or includes code from:
-
+   
 - uQuake1 by mikezila
   https://github.com/mikezila/uQuake1
+      
 
-
-  
+     
 - **BSP_tools** by botman, licensed under the GNU General Public License v2 (GPL-2.0).
   https://www.codeproject.com/Articles/32751/Half-Life-Game-Level-Viewer
 
