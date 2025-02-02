@@ -21,19 +21,16 @@ No entites are rendered, only the world faces
 
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
 
-However, the lightmap code in this project is based on or includes code from:
+However, some code in this project is based on or includes code from:
+
+- uQuake1 by mikezila
+  https://github.com/mikezila/uQuake1
 
 
+  
 - **BSP_tools** by botman, licensed under the GNU General Public License v2 (GPL-2.0).
+  https://www.codeproject.com/Articles/32751/Half-Life-Game-Level-Viewer
 
-- **HL Rendering Engine** by Bart Sekura, licensed under the following terms:
-  	- Permission to use, copy, modify, and distribute this software is hereby granted, provided 	that both the copyright notice and this permission notice appear in all copies of the 	software, derivative works, or modified versions.
-  	- THE AUTHOR ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS" CONDITION AND DISCLAIMS ANY 	LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
-
-
-- **PolyEngine** by Alexey Goloshubin, licensed for **non-commercial use** (please verify the exact    license details).
-
-- **Quake I source code** by id Software, licensed under the GNU General Public License v2 (GPL-2.0).
 
 Please refer to the individual project licenses for more information.
 
