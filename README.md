@@ -3,11 +3,10 @@
    
 Import Half-life Bsp into Unity3d
    
-Unity 6 25f1
-_
-_
-What works
-
+Unity 6 25f1   
+   
+What works   
+   
 Textures are loaded from WAD or BSP  
 PVS works   
 Lightmaps are Fixed, unityHalf-life were very buggy.    
