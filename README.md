@@ -1,5 +1,7 @@
 # Bsp30-Import
     
+   ![Untitled](https://github.com/user-attachments/assets/c863b947-4cb5-4143-8eab-a841946f688d)
+
    
 Import Half-life Bsp into Unity3d<br><br>
    
@@ -10,6 +12,7 @@ Working <br><br>
 * Textures are loaded from WAD or BSP  <br>
 * PVS works, only small chunks are rendered  <br>
 * Lightmaps are Fixed, unityHalf-life were very buggy.<br><br><br>
+
 
 
 Not working<br><br>
