@@ -1,0 +1,3 @@
+
+flycraft.wad is released under Attribution-NonCommercial-ShareAlike 4.0 International, and is modified from ChesterChair`s minecraft PERSISTENCE texure pack. Get the original textures here www.minecraftforum.net/topic/839698-128x179-persistence-updated-may-15th
+
