@@ -1,15 +1,19 @@
 # Bsp30-Import
     
    
-Import Half-life Bsp into Unity3d
+Import Half-life Bsp into Unity3d<br><br>
    
-Unity 6 25f1   
+Unity 6 25f1  <br><br> 
    
-What works   
+What works  <br><br> 
    
-Textures are loaded from WAD or BSP  
-PVS works   
-Lightmaps are Fixed, unityHalf-life were very buggy.<br><br><br><br>
+* Textures are loaded from WAD or BSP  <br>
+* PVS works   <br>
+* Lightmaps are Fixed, unityHalf-life were very buggy.<br><br><br>
+
+
+
+
 No entites are rendered, only the world faces
   
   
