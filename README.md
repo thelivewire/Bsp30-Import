@@ -13,11 +13,8 @@ Lightmaps are Fixed, unityHalf-life were very buggy.
     
    
 No entites are rendered, only the world faces
-   
-   
-   
   
-   
+  
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
    
 However, some code in this project is based on or includes code from:
