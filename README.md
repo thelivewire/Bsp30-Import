@@ -10,8 +10,8 @@ What works
 Textures are loaded from WAD or BSP  
 PVS works   
 Lightmaps are Fixed, unityHalf-life were very buggy.    
-    
-   
+
+
 No entites are rendered, only the world faces
   
   
