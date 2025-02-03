@@ -183,14 +183,18 @@ public class GenerateMapVis : MonoBehaviour
 			}
 		}
 	}
-	#endregion
+    #endregion
+ 
+    #region Face Object Generation
 
-	#region Face Object Generation
-
-	GameObject GenerateFaceObject(BSPFace currentFace)
+    GameObject GenerateFaceObject(BSPFace currentFace)
     {
 
-
+        //===========================================================================================
+        //
+        // The some of the following code is derived from BSP_tools by botman
+        //
+        //==========================================================================================
         BSPTexInfo texInfo = map.texinfoLump.texinfo[currentFace.texinfo_id];
         Face_t tface = new Face_t();
         tface.Texture = (int)texInfo.miptex;
@@ -404,10 +408,15 @@ public class GenerateMapVis : MonoBehaviour
     #endregion
 
 
-
+    //==============================================================================
+    //
+    // The following code is derived from BSP_tools by botman
+    //
+    //==============================================================================
 
     void ComputeLightmap(BSPFace dface, Face_t face, float[] mins, float[] maxs, ref int lh, ref int lw)
     {
+       
         int c, i;
         int width, height;
         /// <summary>
@@ -477,6 +486,12 @@ public class GenerateMapVis : MonoBehaviour
 
     }
 
+
+    //==============================================================================
+    //
+    // The following code is derived from BSP_tools by botman
+    //
+    //==============================================================================
 
 
     // < summary >
