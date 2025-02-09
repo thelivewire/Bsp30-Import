@@ -21,7 +21,8 @@ Not working<br><br>
 * Anything other than rendering world faces<br><br>
 
 <br><br><br>
-quake coordinate system needs to be changed to Unity3d system, this is only done for a few lumps you will have to change any others you need
+quake coordinate system needs to be changed to Unity3d system, this is only done for a few lumps with the swizzle method,
+you will have to change any others you need.<br><br>
   
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
    
