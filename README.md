@@ -1,41 +1,44 @@
 # Bsp30-Import
- 
+    
+   ![Untitled](https://github.com/user-attachments/assets/c863b947-4cb5-4143-8eab-a841946f688d)
 
-Import Half-life Bsp into Unity3d
-
-Unity 6 25f1
-
-
-What works
-
-Textures are loaded from WAD or BSP
-PVS works
-Lightmaps are Fixed, unityHalf-life were very buggy.
-
-
-No entites are rendered, only the world faces
+   
+Import Half-life Bsp into Unity3d<br><br>
+   
+Unity 6 25f1  <br><br> 
+   
+Working <br><br> 
+   
+* Textures are loaded from WAD or BSP  <br>
+* PVS works, only small chunks are rendered  <br>
+* Lightmaps are Fixed, unityHalf-life were very buggy.<br><br><br>
 
 
 
+Not working<br><br>
 
+* No entites are rendered, only the world faces<br>
+* Anything other than rendering world faces<br><br>
 
+<br><br><br>
+quake coordinate system needs to be changed to Unity3d system, this is only done for a few lumps with the swizzle method,
+you will have to change any others you need.<br><br>
+  
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
+   
+However, some code in this project is based on or includes code from:<br><br>
+   
+- uQuake1 by mikezila
+  https://github.com/mikezila/uQuake1<br><br>
 
-However, the lightmap code in this project is based on or includes code from:
+- Code in GenerateMapVis is from **BSP_tools** by botman, licensed under the GNU General Public License v2 (GPL-2.0).
+  https://www.codeproject.com/Articles/32751/Half-Life-Game-Level-Viewer<br><br><br>
 
 
-- **BSP_tools** by botman, licensed under the GNU General Public License v2 (GPL-2.0).
-
-- **HL Rendering Engine** by Bart Sekura, licensed under the following terms:
-  	- Permission to use, copy, modify, and distribute this software is hereby granted, provided 	that both the copyright notice and this permission notice appear in all copies of the 	software, derivative works, or modified versions.
-  	- THE AUTHOR ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS" CONDITION AND DISCLAIMS ANY 	LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER RESULTING FROM THE USE OF THIS SOFTWARE.
-
-
-- **PolyEngine** by Alexey Goloshubin, licensed for **non-commercial use** (please verify the exact    license details).
-
-- **Quake I source code** by id Software, licensed under the GNU General Public License v2 (GPL-2.0).
-
-Please refer to the individual project licenses for more information.
+Please refer to the individual project licenses for more information.<br><br>
 
 **Disclaimer**:  
-While I have made an effort to correctly document the licenses of the included code, it is the user's responsibility to verify the licenses and ensure compliance with any and all applicable license terms. I cannot be held responsible for the misuse or improper application of the code or any third-party components included in this project.
+While I have made an effort to correctly document the licenses of the included code, it is the user's responsibility to verify the licenses and ensure compliance with any and all applicable license terms. I cannot be held responsible for the misuse or improper application of the code or any third-party components included in this project. <br><br><br><br><br><br>
+
+
+
