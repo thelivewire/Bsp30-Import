@@ -19,6 +19,9 @@ Not working<br><br>
 
 * No entites are rendered, only the world faces<br>
 * Anything other than rendering world faces<br><br>
+
+<br><br><br>
+quake coordinate system needs to be changed to Unity3d system, this is only done for a few lumps you will have to change any others you need
   
 This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
    
